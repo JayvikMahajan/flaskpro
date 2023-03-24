@@ -41,3 +41,4 @@ urllib3==1.26.15
 virtualenv==20.21.0
 Werkzeug==2.2.3
 zipp==3.15.0
+streamlit
